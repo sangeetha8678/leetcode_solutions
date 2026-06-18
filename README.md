@@ -1,3 +1,5 @@
 # leetcode_solutions
 Leetocde solutions
-Leetcode 26. Remove Duplicates from Sorted Array
+26. Remove Duplicates from Sorted Array
+125. Valid Palindrome
+1200. Minimum absolute difference
