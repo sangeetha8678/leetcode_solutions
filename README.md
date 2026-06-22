@@ -5,3 +5,4 @@ Leetocde solutions
 1200. Minimum absolute difference
 344. Reverse String
 268. Missing Number
+3731. Missing elements
