@@ -6,3 +6,5 @@ Leetocde solutions
 344. Reverse String
 268. Missing Number
 3731. Missing elements
+53. Maximum Subarray
+162. Maximum product subarray
