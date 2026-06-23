@@ -8,3 +8,4 @@ Leetocde solutions
 3731. Missing elements
 53. Maximum Subarray
 162. Maximum product subarray
+20. Valid Parenthesis
