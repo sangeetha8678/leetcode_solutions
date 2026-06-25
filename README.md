@@ -9,3 +9,4 @@ Leetocde solutions
 53. Maximum Subarray
 162. Maximum product subarray
 20. Valid Parenthesis
+14. Longest Common Prefix
