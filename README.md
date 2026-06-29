@@ -13,3 +13,4 @@ Leetocde solutions
 3. Longest substring without repeating characters
 12. Integer to Roman
 9. Palindrome Number
+5. Longest Palindromic Substring
