@@ -14,3 +14,4 @@ Leetocde solutions
 12. Integer to Roman
 9. Palindrome Number
 5. Longest Palindromic Substring
+7. Reverse Integer
