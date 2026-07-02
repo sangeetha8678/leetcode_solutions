@@ -16,3 +16,5 @@ Leetocde solutions
 5. Longest Palindromic Substring
 7. Reverse Integer
 6. Zigzag Conversion
+
+1.Two sum
