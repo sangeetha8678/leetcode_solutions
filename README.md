@@ -15,3 +15,4 @@ Leetocde solutions
 9. Palindrome Number
 5. Longest Palindromic Substring
 7. Reverse Integer
+6. Zigzag Conversion
